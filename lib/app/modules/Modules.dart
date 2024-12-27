@@ -1,0 +1,9 @@
+export 'Auth/AuthModule.dart';
+export "Splash/SplashModule.dart";
+export 'Setting/SettingModule.dart';
+export 'Notification/NotificationModule.dart';
+export 'Home/HomeModule.dart';
+export 'Hotel/HotelModule.dart';
+export 'Bookings/BookingsModule.dart';
+export 'Favourites/FavouritesModule.dart';
+export 'Profile/ProfileModule.dart';
